@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/7639bc99bd02428d88962556537ea82a/artifacts
+deleted_time: 1706971769924
+end_time: 1706969773876
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7639bc99bd02428d88962556537ea82a
+run_name: skittish-wasp-750
+run_uuid: 7639bc99bd02428d88962556537ea82a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706969773697
+status: 3
+tags: []
+user_id: prami

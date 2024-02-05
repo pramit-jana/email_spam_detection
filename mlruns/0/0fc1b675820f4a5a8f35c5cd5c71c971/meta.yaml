@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0fc1b675820f4a5a8f35c5cd5c71c971/artifacts
+end_time: 1706858624153
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fc1b675820f4a5a8f35c5cd5c71c971
+run_name: aged-rook-337
+run_uuid: 0fc1b675820f4a5a8f35c5cd5c71c971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706858614298
+status: 3
+tags: []
+user_id: pramit.jana

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1706856500098
+current_stage: None
+description: ''
+last_updated_timestamp: 1706856500098
+name: spam_email_detection_model
+run_id: e5a595a012774b2d8752e4e68a18de01
+run_link: ''
+source: mlflow-artifacts:/0/e5a595a012774b2d8752e4e68a18de01/artifacts/spam_email_detection_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/e5a595a012774b2d8752e4e68a18de01/artifacts/spam_email_detection_model
+user_id: null
+version: 1

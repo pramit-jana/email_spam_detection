@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/e5a595a012774b2d8752e4e68a18de01/artifacts
+deleted_time: 1706858606066
+end_time: 1706856471605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e5a595a012774b2d8752e4e68a18de01
+run_name: nebulous-boar-462
+run_uuid: e5a595a012774b2d8752e4e68a18de01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706856457605
+status: 3
+tags: []
+user_id: pramit.jana
